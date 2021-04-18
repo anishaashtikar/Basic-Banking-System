@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #fff!important;
+}
+
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #8807c4f3!important;
+}
+
+.nav-link{
+    color: #0653b3d3!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #eeb9b9bd;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgba(7, 94, 175, 0.774)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgba(1, 41, 172, 0.836)!important;
+}
+.img{
+  opacity: 0.5;
+}
+.name{
+  background-color: #02fafaad!important;
+}
+.name1{
+  background-color: #fac2f565!important;
+}
+.name2{
+  background-color: #f5f3ca98!important;
+}
+.h2{
+  background-color: rgba(250, 159, 159, 0.664)!important;
+}
